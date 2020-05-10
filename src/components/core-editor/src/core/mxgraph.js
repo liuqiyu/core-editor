@@ -1,0 +1,25 @@
+/*
+ * @Description:
+ * @Author: liuqiyu
+ * @Date: 2019-12-19 10:46:02
+ * @LastEditors  : liuqiyu
+ * @LastEditTime : 2020-01-08 11:02:06
+ */
+import mx from 'mxgraph'
+
+const mxgraph = mx({
+  mxImageBasePath: './src/images',
+  mxBasePath: '/static'
+})
+
+// // decode bug https://github.com/jgraph/mxgraph/issues/49
+window.mxGraph = mxgraph.mxGraph
+window.mxGraphModel = mxgraph.mxGraphModel
+window.mxEditor = mxgraph.mxEditor
+window.mxGeometry = mxgraph.mxGeometry
+window.mxDefaultKeyHandler = mxgraph.mxDefaultKeyHandler
+window.mxDefaultPopupMenu = mxgraph.mxDefaultPopupMenu
+window.mxStylesheet = mxgraph.mxStylesheet
+window.mxDefaultToolbar = mxgraph.mxDefaultToolbar
+
+export default mxgraph

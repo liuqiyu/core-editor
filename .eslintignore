@@ -1,0 +1,3 @@
+build/*.js
+config/*.js
+**/base64.js

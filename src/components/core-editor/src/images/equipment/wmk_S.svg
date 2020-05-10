@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.9332mm" height="13.5466mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1693 1355"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#348DD1;stroke-width:20}
+    .str1 {stroke:#348DD1;stroke-width:20}
+    .str2 {stroke:#68B1E6;stroke-width:20}
+    .fil5 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil8 {fill:#E6262D}
+    .fil7 {fill:#1C75BA}
+    .fil0 {fill:#348DD1}
+    .fil3 {fill:#68B1E6}
+    .fil1 {fill:#96D2FF}
+    .fil4 {fill:#BFF4FF}
+    .fil6 {fill:#1C75BA;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2246834948528">
+   <g>
+    <polygon class="fil0" points="34,352 1673,352 1030,9 670,9 "/>
+    <rect class="fil1 str0" x="1222" y="360" width="444" height="981"/>
+    <rect class="fil2 str1" x="1337" y="534" width="213" height="155"/>
+    <rect class="fil3 str1" x="486" y="360" width="736" height="981"/>
+    <rect class="fil4 str1" x="533" y="424" width="273" height="863"/>
+    <rect class="fil4 str1" x="877" y="424" width="273" height="863"/>
+    <line class="fil5 str2" x1="1229" y1="427" x2="1659" y2= "427" />
+    <rect class="fil3" x="1365" y="568" width="158.429" height="14.9736"/>
+    <rect class="fil3" x="1365" y="611" width="158.429" height="14.9736"/>
+    <polygon class="fil6" points="366,174 1338,174 1365,188 339,188 "/>
+    <polygon class="fil6" points="522,89 1180,89 1204,102 499,102 "/>
+    <rect class="fil7" x="823" y="776" width="12.8221" height="52.5707"/>
+    <polygon class="fil6" points="619,37 1082,37 1106,49 596,49 "/>
+    <rect class="fil7" x="847" y="776" width="12.8221" height="52.5707"/>
+   </g>
+   <g>
+    <rect class="fil1 str0" x="41" y="360" width="444" height="981"/>
+    <line class="fil5 str2" x1="49" y1="427" x2="478" y2= "427" />
+    <rect class="fil3 str1" x="486" y="204" width="736" height="155"/>
+    <rect class="fil8" x="837" y="241" width="32.4102" height="55.6133" rx="10" ry="10"/>
+    <polygon class="fil7" points="493,212 1214,212 931,9 773,9 "/>
+    <rect class="fil3" x="738" y="14" width="228.267" height="22.8118"/>
+    <rect class="fil3" x="549" y="123" width="610.607" height="50.7814"/>
+    <rect class="fil3" x="665" y="57" width="375.281" height="31.809"/>
+   </g>
+  </g>
+ </g>
+</svg>

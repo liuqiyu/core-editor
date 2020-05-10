@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <button id="button" class="sliver">切换</button>
+
+  <script>
+
+    function addClass(ele, isGlden) {
+      let clas = isGlden ? 'golden' : 'sliver'
+      ele.classList.add(clas)
+    }
+    const button = document.querySelector('#button')
+    addClass(button, true)
+
+  </script>
+</body>
+
+</html>
